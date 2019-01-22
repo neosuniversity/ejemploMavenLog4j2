@@ -13,7 +13,7 @@ Pasos para instalación de proyecto :heavy_exclamation_mark:
 3. Es obligarorio usar JDK 11 para poder configurar el proyecto.
 
 4. Es obligatorio usar una version igual osuperior a Intellij 2018 3.3
-![Image of version](https://github.com/neosuniversity/libreriaFX/blob/master/src/images/intellij-open.png)
+![Image of version](https://github.com/neosuniversity/libreriaFX/blob/master/src/images/intellij_version3.JPG)
  
 **Nota**: Tratar de usar otro IDE diferente al recomendado es responsabilidad del usuario.
 

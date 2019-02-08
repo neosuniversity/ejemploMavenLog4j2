@@ -78,6 +78,5 @@ public class TestFigura {
             logger.error("***"+ e.getMessage()+"***");
         }
         logger.debug("-----------------------------------");
-
     }
 }

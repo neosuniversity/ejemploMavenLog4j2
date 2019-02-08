@@ -4,6 +4,11 @@ package org.neosuniversity.maven;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+/**
+ * 
+ * @author hhugohm
+ *
+ */
 public class TestFigura {
 
     final static Logger logger = LogManager.getLogger(TestFigura.class);
